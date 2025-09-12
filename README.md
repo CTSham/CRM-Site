@@ -1,6 +1,6 @@
-# React
+# Swift Design CRM Site
 
-A modern React-based project utilizing the latest frontend technologies and tools for building responsive web applications.
+This is a custom CRM web application built and maintained by CTSham, utilizing modern React and Vite for fast, responsive business management.
 
 ## 🚀 Features
 
@@ -98,8 +98,10 @@ Build the application for production:
 npm run build
 ```
 
-## 🙏 Acknowledgments
 
-- Powered by React and Vite
-- Styled with Tailwind CSS
 
+---
+**Author:** Swift Design
+
+---
+Powered by React, Vite, and Tailwind CSS

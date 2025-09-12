@@ -2,6 +2,8 @@
   "name": "salesflow_pro",
   "version": "0.1.0",
   "private": true,
+  "author": "Swift Design",
+  "description": "Custom CRM site by Swift Design.",
   "dependencies": {
     "@dhiwise/component-tagger": "^1.0.1",
     "@reduxjs/toolkit": "^2.6.1",
