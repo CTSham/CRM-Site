@@ -1,6 +1,6 @@
 # Swift Design CRM Site
 
-This is a custom CRM web application built and maintained by CTSham, utilizing modern React and Vite for fast, responsive business management.
+This is a custom CRM web application built and maintained by Swift Design, utilizing modern React and Vite for fast, responsive business management.
 
 ## 🚀 Features
 
