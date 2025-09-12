@@ -4,6 +4,10 @@
   "private": true,
   "author": "Swift Design",
   "description": "Custom CRM site by Swift Design.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CTSham/crm_site.git"
+  },
   "dependencies": {
     "@dhiwise/component-tagger": "^1.0.1",
     "@reduxjs/toolkit": "^2.6.1",
