@@ -7,7 +7,7 @@
 @layer base {
   :root {
     /* Primary Colors */
-    --color-primary: #1E40AF; /* Deep blue (primary) - blue-800 */
+    --color-primary: gray; /* Deep blue (primary) - blue-800 */
     --color-primary-50: #EFF6FF; /* Very light blue - blue-50 */
     --color-primary-100: #DBEAFE; /* Light blue - blue-100 */
     --color-primary-500: #3B82F6; /* Medium blue - blue-500 */
@@ -56,7 +56,7 @@
     --color-error-600: #DC2626; /* Darker red - red-600 */
     
     /* Border Colors */
-    --color-border: #E5E7EB; /* Light gray border - gray-200 */
+    --color-border: red; /* Light gray border - gray-200 */
     --color-border-light: #F3F4F6; /* Very light gray border - gray-100 */
     --color-border-dark: #D1D5DB; /* Medium gray border - gray-300 */
     

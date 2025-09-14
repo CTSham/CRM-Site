@@ -12,7 +12,7 @@ module.exports = {
         'primary-50': '#EFF6FF', // Very light blue - blue-50
         'primary-100': '#DBEAFE', // Light blue - blue-100
         'primary-500': '#3B82F6', // Medium blue - blue-500
-        'primary-600': '#2563EB', // Darker blue - blue-600
+        'primary-600': 'black', // Darker blue - blue-600
         'primary-700': '#1D4ED8', // Dark blue - blue-700
         
         // Secondary Colors
@@ -57,7 +57,7 @@ module.exports = {
         'error-600': '#DC2626', // Darker red - red-600
         
         // Border Colors
-        'border': '#E5E7EB', // Light gray border - gray-200
+        'border': 'red', // Red border - gray-200
         'border-light': '#F3F4F6', // Very light gray border - gray-100
         'border-dark': '#D1D5DB', // Medium gray border - gray-300
       },
