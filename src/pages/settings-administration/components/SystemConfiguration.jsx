@@ -5,7 +5,7 @@ import Icon from '../../../components/AppIcon';
 const SystemConfiguration = () => {
   const [config, setConfig] = useState({
     general: {
-      companyName: 'SalesFlow Pro Inc.',
+  companyName: 'Swift Design CRM Inc.',
       timezone: 'America/New_York',
       dateFormat: 'MM/DD/YYYY',
       currency: 'USD',

@@ -27,7 +27,7 @@ const ActivityTimeline = () => {
       title: 'Follow-up Email Sent',
       description: `Hi Sarah,
 
-Thank you for taking the time to discuss your company's CRM needs yesterday. I wanted to follow up on our conversation about implementing SalesFlow Pro for your sales team.
+Thank you for taking the time to discuss your company's CRM needs yesterday. I wanted to follow up on our conversation about implementing Swift Design CRM for your sales team.
 
 Based on our discussion, I believe our Enterprise package would be the perfect fit for TechCorp's requirements. The advanced pipeline management and custom reporting features you mentioned are core strengths of our platform.
 
@@ -143,7 +143,7 @@ Task details:
 
 Actions taken:
 • Prepared comprehensive pricing comparison with competitors
-• Highlighted SalesFlow Pro's unique value propositions
+• Highlighted Swift Design CRM's unique value propositions
 • Included ROI calculator and implementation timeline
 • Sent via email with read receipt confirmation
 

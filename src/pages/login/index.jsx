@@ -112,7 +112,7 @@ const Login = () => {
               <path d="M9 21V13H15V21" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
             </svg>
           </div>
-          <h1 className="text-3xl font-bold text-text-primary font-heading mb-2">SalesFlow Pro</h1>
+          <h1 className="text-3xl font-bold text-text-primary font-heading mb-2">Swift Design CRM</h1>
           <p className="text-text-secondary">Sign in to your account</p>
         </div>
 
@@ -260,7 +260,7 @@ const Login = () => {
         {/* Footer */}
         <div className="text-center mt-8">
           <p className="text-sm text-text-tertiary">
-            © {new Date().getFullYear()} SalesFlow Pro. All rights reserved.
+            © {new Date().getFullYear()} Swift Design CRM. All rights reserved.
           </p>
         </div>
       </div>
